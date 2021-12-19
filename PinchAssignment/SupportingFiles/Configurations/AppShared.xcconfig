@@ -1,0 +1,8 @@
+//
+//  AppShared.xcconfig
+//  PinchAssignment
+//
+//  Created by Andrija Scepanovic on 9/28/21.
+//
+
+APP_VERSION = 0.1

@@ -1,0 +1,9 @@
+//
+//  ProductionRelease.xcconfig
+//  PinchAssignment
+//
+//  Created by Andrija Scepanovic on 9/28/21.
+//
+
+#include "PinchAssignment/SupportingFiles/Configurations/Production/ProductionShared.xcconfig"
+#include "Pods/Target Support Files/Pods-PinchAssignment/Pods-PinchAssignment.productionrelease.xcconfig"

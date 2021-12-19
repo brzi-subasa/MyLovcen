@@ -1,0 +1,11 @@
+//
+//  ProductionShared.xcconfig
+//  PinchAssignment
+//
+//  Created by Andrija Scepanovic on 9/28/21.
+//
+
+#include "PinchAssignment/SupportingFiles/Configurations/AppShared.xcconfig"
+
+APP_NAME = PhotoGallery
+PRODUCT_BUNDLE_IDENTIFIER = com.pinch.photogallery
