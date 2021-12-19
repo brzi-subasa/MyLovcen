@@ -1,0 +1,9 @@
+//
+//  DevelopmentDebug.xcconfig
+//  MyLovcen
+//
+//  Created by Andrija Scepanovic on 9/28/21.
+//
+
+#include "MyLovcen/SupportingFiles/Configurations/Development/DevelopmentShared.xcconfig"
+#include "Pods/Target Support Files/Pods-MyLovcen/Pods-MyLovcen.developmentdebug.xcconfig"

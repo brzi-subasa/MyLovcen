@@ -1,9 +1,0 @@
-//
-//  DevelopmentDebug.xcconfig
-//  PinchAssignment
-//
-//  Created by Andrija Scepanovic on 9/28/21.
-//
-
-#include "PinchAssignment/SupportingFiles/Configurations/Development/DevelopmentShared.xcconfig"
-#include "Pods/Target Support Files/Pods-PinchAssignment/Pods-PinchAssignment.developmentdebug.xcconfig"

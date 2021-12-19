@@ -6,7 +6,7 @@ platform :ios, minDeploymentTarget
 use_frameworks!
 
 # Custom configurations
-project 'PinchAssignment', 'ProductionDebug' => :debug, 'ProductionRelease' => :release, 'DevelopmentDebug' => :debug, 'DevelopmentRelease' => :release
+project 'MyLovcen', 'ProductionDebug' => :debug, 'ProductionRelease' => :release, 'DevelopmentDebug' => :debug, 'DevelopmentRelease' => :release
 
 # Pods
 def ui
@@ -33,10 +33,15 @@ def shared
   networking
 end
 
-target 'PinchAssignment' do
+target 'MyLovcen' do
     shared
 
-    target 'PinchAssignmentUITests' do
+    target 'MyLovcenTests' do
+      inherit! :search_paths
+      testing
+    end
+
+    target 'MyLovcenUITests' do
       inherit! :search_paths
       testing
     end

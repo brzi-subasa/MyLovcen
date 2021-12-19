@@ -1,0 +1,11 @@
+//
+//  ProductionShared.xcconfig
+//  MyLovcen
+//
+//  Created by Andrija Scepanovic on 9/28/21.
+//
+
+#include "MyLovcen/SupportingFiles/Configurations/AppShared.xcconfig"
+
+APP_NAME = MyLovcen
+PRODUCT_BUNDLE_IDENTIFIER = me.lovcenbanka.mylovcen

@@ -1,0 +1,9 @@
+//
+//  ProductionRelease.xcconfig
+//  MyLovcen
+//
+//  Created by Andrija Scepanovic on 9/28/21.
+//
+
+#include "MyLovcen/SupportingFiles/Configurations/Production/ProductionShared.xcconfig"
+#include "Pods/Target Support Files/Pods-MyLovcen/Pods-MyLovcen.productionrelease.xcconfig"
